@@ -1,4 +1,4 @@
-# Hola! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Aniket Artani
+# Hi-ya! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Aniket Artani
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketartani&label=Views&color=blue&style=plastic" alt="AniketArtani" /> </p>
 
