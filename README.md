@@ -37,7 +37,7 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"></code>
-<code><img height="20" src="https://www.macworld.co.uk/how-to/how-set-up-learn-sql-in-mac-os-x-3638150/"></code>
+
 
 
 <a href="https://github.com/aniketartani">
