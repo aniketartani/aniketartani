@@ -20,13 +20,12 @@
 - 🔭 I’m currently working at _________.
 - 🌱 I’m currently learning more about the Automations :) which can make our life more easier.
 - 💬 Ask me about Web or any tech related stuff.
-- 📫 How to reach me: [Instagram - @Aniket Artani](https://www.instagram.com/artanianiket/) , [WhatsApp - Aniket_Artani](https://wa.me/qr/K75ZPAWY5G5TF1)
+- 📫 How to reach me: [Instagram - @Aniket Artani](https://www.instagram.com/artanianiket/) ,
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Javascript is not getting older by age.
 
 
 [![Linkedin: Aniket Artani](https://img.shields.io/badge/-Aniket-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aniket-artani-08022a180/)](https://www.linkedin.com/in/aniket-artani-08022a180/)
-[![GitHub AniketArtani](https://img.shields.io/github/followers/aniketartani?label=follow&style=social)](https://github.com/aniketartani)
 
 
 **Languages and Tools:**  
