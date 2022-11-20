@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniketartani&label=Views&color=blue&style=plastic" alt="AniketArtani" /> </p>
 
-<a href="https://www.linkedin.com/in/aniket-artani-08022a180/">
+<!-- <a href="https://www.linkedin.com/in/aniket-artani-08022a180/">
   <img align="left" alt="Aniket Linkdein" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
-</a>
+</a> -->
 <a href="https://github.com/aniketartani">
   <img align="left" alt="Aniket's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
